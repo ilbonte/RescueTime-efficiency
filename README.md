@@ -46,10 +46,10 @@ Depending on your connection speed, computer performace and mostly the amount of
 Example of 1 month of data: I work better before 2pm
 ![alt text][one]
 
-[one]: https://lh6.googleusercontent.com/xORNzSDbb0boS0caMFSazxq4p_6-Y55Cnfj885PY4J0B_FRLWcb_KeYT2gN0WDpLc-HUOn_TAJ4=w1342-h542 
+[one]: http://i62.tinypic.com/2z8xdv7.png
 
 
 Example of 3 month of data: Of course if I have to stay up during the night I'm more motivated to work :|
 ![alt text][three]
 
-[three]: https://lh5.googleusercontent.com/qnxuvWtni-JpRz7TTy1SaHLSA8AnVDUTTdwpcPjt9upKpNpOQJ4Sc-nU0CyNSJklnNJL_v4maYs=w1342-h542
+[three]: http://i59.tinypic.com/24fbfv7.png
