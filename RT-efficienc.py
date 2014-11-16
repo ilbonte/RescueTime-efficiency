@@ -5,7 +5,7 @@ import itertools #calculate the avg
 import matplotlib.pyplot as plt   #http://matplotlib.org/
 import matplotlib.dates as dt #plor the data
 import urllib #http request
-
+#ATTENTION: please take a look to the readme/tutorial: https://github.com/ilbonte/RescueTime-efficiency
 print("start")
 
 
