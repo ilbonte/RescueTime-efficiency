@@ -21,11 +21,17 @@ rtapi_key="PUT_YOUR_API_KEY_HERE"
 file_name="file" 
 ```
 You only need to change the last five parameters:
+
 1. **rs** stand for "resolution_time" and it could be "hour" or "minute". I suggest to use "minute" only when you have few data (like a week)
+
 2. **rb** stand for "restrict_begin" Sets the start day for data batch
+
 3. **re** stand for "restrict_begin" Sets the end for data batch
+
 4. **rtapi_key** is your API key
+
 5. **file_name** is the name of the csv file that will be downloaded
+
 
 
 ```python
