@@ -1,6 +1,10 @@
 RescueTime-efficiency
 =====================
 
+## This tool is outdated! You should check out [this project](https://github.com/ilbonte/rescuetime-again)
+
+
+
 Discover which hours have been the most efficiency for you.
 
 ### What you need:
